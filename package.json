@@ -1,0 +1,14 @@
+{
+  "name": "micro-gogs-sync-gitlab-webhook-server",
+  "version": "0.0.1",
+  "description": "micro service for sync gogs to gitlab server",
+  "main": "index.js",
+  "author": "yuler <joyful4yu@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "micro"
+  },
+  "dependencies": {
+    "micro": "^9.3.2"
+  }
+}
