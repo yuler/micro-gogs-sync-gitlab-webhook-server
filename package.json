@@ -6,9 +6,11 @@
   "author": "yuler <joyful4yu@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "micro"
+    "start": "micro",
+    "test": "echo test"
   },
   "dependencies": {
-    "micro": "^9.3.2"
+    "micro": "^9.3.2",
+    "node-fetch": "^2.1.2"
   }
 }
